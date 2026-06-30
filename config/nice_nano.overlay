@@ -1,0 +1,6 @@
+&pro_micro_spi {
+    status = "okay";
+    nice_view_spi: nice_view_spi {
+        compatible = "nicekeyboards,nice-view-spi";
+    };
+};
